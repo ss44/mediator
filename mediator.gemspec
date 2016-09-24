@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "prologue-like-jekyll-theme"
+  spec.name          = "mediator"
   spec.version       = "0.1.0"
-  spec.authors       = ["Mario H. Adaniya"]
-  spec.email         = ["mhadaniya@gmail.com"]
+  spec.authors       = ["@todo"]
+  spec.email         = ["@todo"]
 
-  spec.summary       = 'Prologue theme for Jekyll'
-  spec.homepage      = "https://github.com/mhadaniya/prologue-like-jekyll-theme"
+  spec.summary       = 'Mediator Theme'
+  spec.homepage      = "http://to.do"
   spec.license       = "MIT"
   spec.description   = "A simple theme for Jekyll using Prologue from html5up"
   
