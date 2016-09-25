@@ -2,6 +2,7 @@
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-assets
 
 # Site settings
 title: "Mediator"
